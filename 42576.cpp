@@ -1,3 +1,4 @@
+//Programmers 42576 : 해시 - 완주하지 못한 선수 
 #include <string>
 #include <vector>
 #include <algorithm>

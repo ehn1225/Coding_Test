@@ -1,3 +1,4 @@
+//Programmers 42839 : 완전탐색 - 소수 찾기
 #include <string>
 #include <vector>
 #include <iostream>

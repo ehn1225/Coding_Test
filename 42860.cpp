@@ -1,4 +1,5 @@
-﻿#include <string>
+﻿//Programmers 42860 : 그리디 - 조이스틱
+#include <string>
 #include <vector>
 #include <iostream>
 #include <string.h>

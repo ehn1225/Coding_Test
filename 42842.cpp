@@ -1,3 +1,4 @@
+//Programmers 42842 : 완전탐색 - 카펫
 #include <string>
 #include <vector>
 #include <iostream>

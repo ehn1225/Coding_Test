@@ -1,3 +1,4 @@
+//Programmers 86491 : 완전탐색 - 최소직사각형
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>

@@ -1,4 +1,5 @@
-﻿#include <string>
+﻿//Programmers 42840 : 완전탐색 - 모의고사
+#include <string>
 #include <vector>
 #include <iostream>
 #include <algorithm>

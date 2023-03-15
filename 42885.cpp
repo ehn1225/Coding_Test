@@ -1,3 +1,4 @@
+//Programmers 42885 : 그리디 - 구명보트
 #include <string>
 #include <vector>
 #include <algorithm>

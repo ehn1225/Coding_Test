@@ -1,4 +1,5 @@
-﻿#include <string>
+﻿//Programmers 42883 : 그리디 - 큰 수 만들기
+#include <string>
 #include <vector>
 #include <algorithm>
 #include <iostream>
