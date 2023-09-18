@@ -1,4 +1,4 @@
-//DP - 3 °³¹ÌÀü»ç
+//DP - 3 ê°œë¯¸ì „ì‚¬
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -14,7 +14,7 @@ int main() {
 		arr[i] = tmp;
 	}
 
-	// ´ÙÀÌ³ª¹Í ÇÁ·Î±×·¡¹Ö(Dynamic Programming) ÁøÇà(º¸ÅÒ¾÷)
+	// ë‹¤ì´ë‚˜ë¯¹ í”„ë¡œê·¸ë˜ë°(Dynamic Programming) ì§„í–‰(ë³´í…€ì—…)
 	sum[0] = arr[0];
 	sum[1] = max(arr[0], arr[1]);
 	for (int i = 2; i < n; i++) {
