@@ -1,4 +1,4 @@
-//¹éÁØ 11726 - 2¡¿n Å¸ÀÏ¸µ
+//ë°±ì¤€ 11726 - 2Ã—n íƒ€ì¼ë§
 #include <bits/stdc++.h>
 using namespace std;
 
